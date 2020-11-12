@@ -469,6 +469,7 @@ namespace strumpack {
 
     long long spmv_flops() const;
     long long spmv_bytes() const;
+    
   };
 
 } //end namespace strumpack
